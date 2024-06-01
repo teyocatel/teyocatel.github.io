@@ -51,9 +51,9 @@ skills:
 - {name: Learning, value: '10'}
 - {name: Teaching, value: '6'}
 - {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: English, value: '10'}
+- {name: French, value: '10'}
+- {name: Spanish, value: '6'}
 
 #-------------------------------
 # Work Section
