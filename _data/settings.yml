@@ -46,12 +46,13 @@ blurb: >
 
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organisation, value: '7'}
-- {name: Learning (I'm always learning!), value: '10'}
+- {name: Communication, value: '7'}
+- {name: Organisation, value: '6'}
+- {name: Learning, value: '10'}
 - {name: Teaching, value: '6'}
-- {name: English (fluent), value: '9'}
-- {name: French (fluent), value: '9'}
+
+- {name: English, value: '10'}
+- {name: French, value: '10'}
 - {name: Spanish, value: '5'}
 - {name: Music, value: '7'}
 - {name: Nature, value: '8'}
